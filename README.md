@@ -20,11 +20,11 @@ Latihan ini bertujuan untuk memastikan bahwa PHP telah berhasil dijalankan melal
 
 Output Code: <br>
 
-![alt text](<assets/praktikum7 img/code1.png>) <br>
+<img width="774" height="504" alt="image" src="https://github.com/user-attachments/assets/bd73fb50-f46c-4aef-a414-9aa15313802f" /> <br>
 
 Output Gambar: <br>
 
-![alt text](<assets/praktikum7 img/gambar1.png>) <br>
+<img width="774" height="504" alt="image" src="https://github.com/user-attachments/assets/72a5d647-b5dc-42eb-aa42-d1ef1d52131c" /> <br>
 
 ### Varibabel, Operator, dan Percabangan <br>
 
@@ -34,11 +34,11 @@ Program juga menggunakan percabangan `if, elseif,` dan `else` untuk menentukan p
 
 Output Code: <br>
 
-![alt text](<assets/praktikum7 img/code2.png>) <br>
+<img width="707" height="432" alt="image" src="https://github.com/user-attachments/assets/8f25e59b-f06f-4e94-bfc0-ec042b08dfff" /> <br>
 
 Output Gambar:
 
-![alt text](<assets/praktikum7 img/gambar2.png>) <br>
+<img width="216" height="126" alt="image" src="https://github.com/user-attachments/assets/2d6b2e5b-c9d6-41e5-a589-2cc3b5c54b86" /> <br>
 
 ### Perulangan dan Array <br>
 
@@ -48,11 +48,11 @@ Latihan ini bertujuan untuk memahami cara menyimpan sekumpulan data dan menampil
 
 Output Code: <br>
 
-![alt text](<assets/praktikum7 img/code3.png>) <br>
+<img width="528" height="170" alt="image" src="https://github.com/user-attachments/assets/69f6c9f5-aa92-4202-9862-8cd8b4934984" /> <br>
 
 Output Gambar: <br>
 
-![alt text](<assets/praktikum7 img/gambar3.png>) <br>
+![<img width="582" height="330" alt="image" src="https://github.com/user-attachments/assets/b7a1cc2a-c55a-47aa-a221-d0b4a8d3e902" /> <br>
 
 ### Membuat Function <br>
 
@@ -62,11 +62,11 @@ Program kemudian menghitung jumlah potongan harga dan mengembalikan hasil berupa
 
 Output Code: <br>
 
-![alt text](<assets/praktikum7 img/code4.png>) <br>
+<img width="1157" height="789" alt="image" src="https://github.com/user-attachments/assets/b8bfd311-2108-49ec-ab45-240a51b35042" /> <br>
 
 Output Gambar: <br>
 
-![alt text](<assets/praktikum7 img/gambar4.png>) <br>
+<img width="327" height="61" alt="image" src="https://github.com/user-attachments/assets/61f5ded8-f1d1-41e4-80e0-4a00255e1b6c" /> <br>
 
 ### Memproses Form dengan GET <br>
 
@@ -78,11 +78,11 @@ Program menggunakan `htmlspecialchars()` untuk membantu mengamankan tampilan inp
 
 Output Code: <br>
 
-![alt text](<assets/praktikum7 img/code5.png>) <br>
+<img width="773" height="296" alt="image" src="https://github.com/user-attachments/assets/0d3a329a-88a9-4d2e-8c6b-5ac6c5962401" /> <br>
 
 Output Gambar: <br>
 
-![alt text](<assets/praktikum7 img/gambar5 code4.png>) <br>
+<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/2b8eba41-d28b-4660-8b3d-16e00574db1b" /> /> <br>
 
 ### Memproses Form dengan POST <br>
 
@@ -94,11 +94,11 @@ Apabila seluruh data telah diisi, program akan menampilkan informasi bahwa data 
 
 Output Code: <br>
 
-![alt text](<assets/praktikum7 img/code6.png>) <br>
+<img width="844" height="503" alt="image" src="https://github.com/user-attachments/assets/b03f482e-ff21-4a27-a265-d389d68cf514" /> <br>
 
 Output Gambar: <br>
 
-![alt text](<assets/praktikum7 img/gambar6.png>) <br>
+<img width="2169" height="725" alt="image" src="https://github.com/user-attachments/assets/264a0a52-8661-4004-933e-5dc5dc00663e" /> <br>
 
 ### Pengolahan Data Sederhana <br>
 
@@ -110,11 +110,11 @@ Program juga menampilkan pesan kesalahan apabila nama barang kosong, harga tidak
 
 Output Code: <br>
 
-![alt text](<assets/praktikum7 img/code7.png>) <br>
+<img width="780" height="648" alt="image" src="https://github.com/user-attachments/assets/fe9d75d7-1f70-4685-ad1f-3eba8a6ab3cf" /> <br>
 
 Output Gambar: <br>
 
-![alt text](<assets/praktikum7 img/gambar7.png>) <br>
+<img width="844" height="104" alt="image" src="https://github.com/user-attachments/assets/2caa3cd3-b73a-4db8-8204-8443af57d5df" /> <br>
 
 ## MINI PROJECT Aplikasi Formulir Data Mahasiswa <br>
 
@@ -148,4 +148,4 @@ Data yang ditampilkan kembali menggunakan `htmlspecialchars()` untuk membantu me
 
 Output Gambar: <br>
 
-![alt text](<assets/miniproject img/gambar_miniproject.png>) <br>
+<img width="1226" height="1283" alt="Formulir Data Mahasiswa Berhasil Diterima" src="https://github.com/user-attachments/assets/678a41d2-f71f-46d7-8620-5025aca94cfb" /> <br>
